@@ -56,3 +56,9 @@ gpytranslate==1.5.1
 cloudscraper==1.2.69
 carbonnow
 pretty_errors
+pyrogram
+motor
+aiohttp
+python-dotenv
+apscheduler
+tzlocal
